@@ -23,6 +23,7 @@ encouragement = [
     "You're a great person! Here's a joke for you."
 ]
 
+
 if "responding" not in db.keys():
     db["responding"] = True
 
